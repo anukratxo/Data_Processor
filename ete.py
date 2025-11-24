@@ -30,7 +30,7 @@ class data_processor:
                 c = c+1
         print(f"the stats of list is: str = {a} | int = {b} | other = {c}")
         
-#FOR TESTIN I USED AI FOLLOW UP:
+#FOR TESTING I USED AI FOLLOW UP:
 # Sample inputs
 my_list = ["apple", 42, "banana", 3.14, "cat"]
 my_dict = {"name": "anukrat", "city": "jaipur", "age": 22}
@@ -51,4 +51,5 @@ print("Capitalized list:", cap_list)
 print("Capitalized dict:", cap_dict)
 
 # Test summary_list
+
 processor.summary_list()
